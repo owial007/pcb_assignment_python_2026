@@ -1,0 +1,13 @@
+Variant_id,Type,CDS_Position ,Change_from,Change_to
+V01,Substitution,21,G,A
+V02,Substitution,20,A,T
+V03,Substitution,19,G,T
+V04,Substitution,75,T,C
+V05,Substitution,9,T,A
+V06,Substitution,60,C,A
+V07,Substitution,120,G,A
+V08,Substitution,180,G,A
+V09,Insertion,100,Insert,A
+V10,Deletion,160,Delete,G
+V11,Insertion,205,Insert,GCT
+V12,Deletion,250,Delete,GGC
