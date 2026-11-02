@@ -1,6 +1,0 @@
-name: pcb_v1
-channels:
-  - defaults
-dependencies:
-  - python=3.12.5
-prefix: C:\Users\lenovo\miniconda3\envs\pcb_v1
