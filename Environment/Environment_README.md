@@ -35,34 +35,3 @@ Use the following command to deactivate the pcb_v1 environment:
 ```bash
 conda deactivate
 ```
-
-## For Linux OS:
-
-### Installation: 
-1) Use the file "pcb_linux_v1.yml" to create the conda environment in your system.
-2) Use the following command to install the environment:
-
-```bash
-conda env create -f pcb_linux_v1.yml
-```
-#### NOTE:  You need to be in the same directory while installing the env, 
-otherwise give the entire path to the file like:
-
-```bash
-conda env create -f c:/to/the/path/pcb_linux_v1.yml
-```
-Your environment will be installed.
-
-### Activating conda env:
-
-Use the following command to activate the pcb_linux_v1 environment:
-
-```bash
-conda activate pcb_linux_v1
-```
-
-Use the following command to deactivate the pcb_v1 environment:
-
-```bash
-conda deactivate
-```
