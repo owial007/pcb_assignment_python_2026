@@ -1,0 +1,14 @@
+Variant_Id,Mutation_Type,Sequence_Length,Ref_Protein_Length,Mutated_Protein_Length,Difference_Protein_Length,Substituition_effect,Start_Codon,Internal_Stop_Codon,Stop_Codon,Shifts
+ref_seq,original,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V01,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V02,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V03,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V04,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V05,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V06,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V07,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V08,subtitution,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V09,insertion,444,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V11,insertion,446,148,148,0,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V10,deletion,443,148,147,1,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87
+V12,deletion,443,148,147,1,Stop-Loss:T at position 148,Missense:A at position 84,Missense:P at position 85,Missense:L at position 86,Missense:P at position 87

@@ -1,0 +1,13 @@
+variant_id,mutation_type,reference_seq_length,mutated_seq_length
+V01,subtitution,444,444
+V02,subtitution,444,444
+V03,subtitution,444,444
+V04,subtitution,444,444
+V05,subtitution,444,444
+V06,subtitution,444,444
+V07,subtitution,444,444
+V08,subtitution,444,444
+V09,insertion,444,444
+V11,insertion,444,446
+V10,deletion,444,443
+V12,deletion,444,443
